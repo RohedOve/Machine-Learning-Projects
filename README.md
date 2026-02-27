@@ -25,34 +25,12 @@ It serves as a collection for learning, experimentation, model building and real
 
 ------------------------------------------------------------------------
 
-## 🚀 Technologies Used
-
-- Python  
-- Scikit-learn  
-- TensorFlow / PyTorch  
-- Pandas & NumPy  
-- Matplotlib / Seaborn  
-
-------------------------------------------------------------------------
-
-## 🎯 Purpose
-
-This repository is built for:
-- Academic practice  
-- Research experiments  
-- Portfolio showcase  
-- Real-world problem solving  
-
-------------------------------------------------------------------------
-
-<br>
-
-<table align="center" width="80%">
+<table align="center" width="95%">
 <tr>
 
 <td width="50%" valign="top" style="padding:25px; border:1px solid #30363d;">
 
-## 🚀 Technologies Used
+<h2>🚀 Technologies Used</h2>
 
 - Python  
 - Scikit-learn  
@@ -64,7 +42,7 @@ This repository is built for:
 
 <td width="50%" valign="top" style="padding:25px; border:1px solid #30363d;">
 
-## 🎯 Purpose
+<h2>🎯 Purpose</h2>
 
 This repository is built for:
 
@@ -77,7 +55,5 @@ This repository is built for:
 
 </tr>
 </table>
-
-<br>
 
 ------------------------------------------------------------------------
