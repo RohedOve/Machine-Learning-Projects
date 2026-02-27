@@ -55,3 +55,43 @@ It serves as a collection for learning, experimentation, model building and real
 </table>
 
 ------------------------------------------------------------------------
+<table align="center" width="100%">
+<tr>
+
+<td width="33%" valign="top" style="padding:25px; border:1px solid #30363d;">
+
+<h2>🚀 Tech Stack</h2>
+
+- Python  
+- Scikit-learn  
+- TensorFlow / PyTorch  
+- Pandas & NumPy  
+- Matplotlib / Seaborn  
+
+</td>
+
+<td width="33%" valign="top" style="padding:25px; border:1px solid #30363d;">
+
+<h2>📊 Key Features</h2>
+
+- Data Preprocessing & Cleaning  
+- Model Training & Evaluation  
+- Performance Metrics Analysis  
+- Visualization of Results  
+- Deployment-Ready Implementations  
+
+</td>
+
+<td width="33%" valign="top" style="padding:25px; border:1px solid #30363d;">
+
+<h2>🎯 Purpose</h2>
+
+- Academic practice  
+- Research experiments  
+- Portfolio showcase  
+- Real-world problem solving  
+
+</td>
+
+</tr>
+</table>
