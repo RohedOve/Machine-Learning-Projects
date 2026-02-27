@@ -44,3 +44,34 @@ This repository is built for:
 - Real-world problem solving  
 
 ------------------------------------------------------------------------
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🚀 Technologies Used
+
+- Python  
+- Scikit-learn  
+- TensorFlow / PyTorch  
+- Pandas & NumPy  
+- Matplotlib / Seaborn  
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🎯 Purpose
+
+This repository is built for:
+
+- Academic practice  
+- Research experiments  
+- Portfolio showcase  
+- Real-world problem solving  
+
+</td>
+</tr>
+</table>
+
+------------------------------------------------------------------------
