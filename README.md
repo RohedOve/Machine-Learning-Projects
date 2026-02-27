@@ -25,7 +25,7 @@ It serves as a collection for learning, experimentation, model building and real
 
 ------------------------------------------------------------------------
 
-<table align="center" width="95%">
+<table align="center" width="100%">
 <tr>
 
 <td width="50%" valign="top" style="padding:25px; border:1px solid #30363d;">
@@ -43,8 +43,6 @@ It serves as a collection for learning, experimentation, model building and real
 <td width="50%" valign="top" style="padding:25px; border:1px solid #30363d;">
 
 <h2>🎯 Purpose</h2>
-
-This repository is built for:
 
 - Academic practice  
 - Research experiments  
