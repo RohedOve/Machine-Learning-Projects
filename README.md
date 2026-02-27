@@ -45,9 +45,9 @@ This repository is built for:
 
 ------------------------------------------------------------------------
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" style="padding:20px; border-right:1px solid #30363d;" valign="top">
 
 ## 🚀 Technologies Used
 
@@ -59,7 +59,7 @@ This repository is built for:
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" style="padding:20px;" valign="top">
 
 ## 🎯 Purpose
 
