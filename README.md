@@ -45,9 +45,12 @@ This repository is built for:
 
 ------------------------------------------------------------------------
 
-<table width="100%">
+<br>
+
+<table align="center" width="80%">
 <tr>
-<td width="50%" style="padding:20px; border-right:1px solid #30363d;" valign="top">
+
+<td width="50%" valign="top" style="padding:25px; border:1px solid #30363d;">
 
 ## 🚀 Technologies Used
 
@@ -59,7 +62,7 @@ This repository is built for:
 
 </td>
 
-<td width="50%" style="padding:20px;" valign="top">
+<td width="50%" valign="top" style="padding:25px; border:1px solid #30363d;">
 
 ## 🎯 Purpose
 
@@ -71,7 +74,10 @@ This repository is built for:
 - Real-world problem solving  
 
 </td>
+
 </tr>
 </table>
+
+<br>
 
 ------------------------------------------------------------------------
