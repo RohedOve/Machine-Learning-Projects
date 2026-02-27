@@ -25,12 +25,12 @@ It serves as a collection for learning, experimentation, model building and real
 
 ------------------------------------------------------------------------
 
-<table align="center" width="100%">
+<table align="center" width="95%">
 <tr>
 
 <td width="50%" valign="top" style="padding:25px; border:1px solid #30363d;">
 
-<h2 style="white-space: nowrap;">🚀 Technologies Used</h2>
+<h2>🚀 Tech Stack</h2>
 
 - Python  
 - Scikit-learn  
@@ -42,7 +42,7 @@ It serves as a collection for learning, experimentation, model building and real
 
 <td width="50%" valign="top" style="padding:25px; border:1px solid #30363d;">
 
-<h2 style="white-space: nowrap;">🎯 Purpose</h2>
+<h2>🎯 Purpose</h2>
 
 This repository is built for:
 
